@@ -1,10 +1,9 @@
-# Holberton Front End Project
+# Holberton Web Front End Project
 
-It has 6 tasks in total.
+This is the 1st module.
+It has 7 tasks in total.
 
 You need 80% to pass.
 
 A preview of how it should look like:
-![alt text](./preview.png)
-
-
+![alt text](images/preview.png)

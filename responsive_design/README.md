@@ -1,7 +1,7 @@
 # Holberton Web Front End Project
 
 This is the 2nd module called Responsive Design.
-It has 7 tasks in total.
+It has 12 tasks in total.
 
 You need 80% to pass.
 

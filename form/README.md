@@ -5,5 +5,5 @@ It has 7 tasks in total.
 
 You need 80% to pass.
 
-A preview of how it should look like:
+**A preview of how it should look like:**
 ![alt text](images/preview.png)

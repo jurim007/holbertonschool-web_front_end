@@ -1,6 +1,6 @@
 # Holberton Web Front End Project
 
-This is the 1st module called Forms.
+This is the 2nd module called Responsive Design.
 It has 7 tasks in total.
 
 You need 80% to pass.

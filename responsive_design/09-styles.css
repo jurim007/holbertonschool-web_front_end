@@ -465,7 +465,7 @@
     fill: var(--text-color);
   }
 
-  @media (max-width: 767px) {
+  @media  screen and (max-width: 767px) {
     :root {
       --footer-padding: 5rem 2rem 1rem;
     }
@@ -475,8 +475,8 @@
       text-align: center;
     }
 
-    .social.nav li + li,
-    .footer-nav li + li {
+    .social.nav > li + li,
+    .footer-nav > li + li {
       padding-left: 2rem;
     }
   }
